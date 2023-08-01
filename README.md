@@ -10,7 +10,7 @@ It also updates the 'openai-whisper' project pull request to fix the metadata in
 
 To get started, you'll need Python 3.7 or newer. Install the binary by running the following command:
 
-    pip install git+https://github.com/tonic-intern/yt-whisper.git
+    pip install git+https://github.com/c-phan/yt-whisper.git
 
 You'll also need to install [`ffmpeg`](https://ffmpeg.org/), which is available from most package managers:
 
